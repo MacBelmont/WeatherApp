@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="USER_API_URL">https://run.mocky.io/v3/</string>
+    <string name="WEATHER_API_URL">https://api.openweathermap.org/data/2.5/</string>
+    <string name="WEATHERAP_KEY">787546c4ce3b2639a48674d12606e8e7</string>
+
+</resources>
